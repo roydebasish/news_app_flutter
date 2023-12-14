@@ -14,10 +14,10 @@ This project demonstrate show news headlines.News are collected from newsapi.org
 
 
 ## dependencies used:-
-   cupertino_icons: ^1.0.2
-   url_launcher: ^6.2.2
-   cached_network_image: ^3.3.0
-   intl: ^0.19.0
-   get: ^4.6.6
-   http: ^1.1.0
+   cupertino_icons: ^1.0.2  
+   url_launcher: ^6.2.2  
+   cached_network_image: ^3.3.0  
+   intl: ^0.19.0  
+   get: ^4.6.6  
+   http: ^1.1.0  
 
